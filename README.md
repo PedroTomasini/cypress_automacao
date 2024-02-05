@@ -1,4 +1,4 @@
-# Documentação de Testes - Automação com Cypress
+#Automação de Testes com Cypress
 
 ## Índice
 
